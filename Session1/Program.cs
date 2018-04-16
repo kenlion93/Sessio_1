@@ -8,9 +8,9 @@ namespace Session1
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
-            Console.WriteLine("Hellp 2nd");Console.WriteLine("Hellp 2nd");
-            
-         
+            Console.WriteLine("Hellp 2nd");
+            Console.WriteLine("Hellp 2nd");
+             
         }
     }
 }
