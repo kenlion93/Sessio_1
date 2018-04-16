@@ -1,7 +1,9 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session1", "Session1\Session1.csproj", "{C4A6713A-3BB9-4E6F-9FC2-B8CA25972400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo2", "Demo2\Demo2.csproj", "{836D9865-B843-41CF-A1B6-E7BEB6619B56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +15,9 @@ Global
 		{C4A6713A-3BB9-4E6F-9FC2-B8CA25972400}.Debug|x86.Build.0 = Debug|x86
 		{C4A6713A-3BB9-4E6F-9FC2-B8CA25972400}.Release|x86.ActiveCfg = Release|x86
 		{C4A6713A-3BB9-4E6F-9FC2-B8CA25972400}.Release|x86.Build.0 = Release|x86
+		{836D9865-B843-41CF-A1B6-E7BEB6619B56}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{836D9865-B843-41CF-A1B6-E7BEB6619B56}.Debug|x86.Build.0 = Debug|Any CPU
+		{836D9865-B843-41CF-A1B6-E7BEB6619B56}.Release|x86.ActiveCfg = Release|Any CPU
+		{836D9865-B843-41CF-A1B6-E7BEB6619B56}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
