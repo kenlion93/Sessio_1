@@ -1,0 +1,6 @@
+/Users/Jason/Coding/Session1/Session1/bin/Debug/Session1.exe
+/Users/Jason/Coding/Session1/Session1/bin/Debug/Session1.pdb
+/Users/Jason/Coding/Session1/Session1/obj/x86/Debug/Session1.csproj.CoreCompileInputs.cache
+/Users/Jason/Coding/Session1/Session1/obj/x86/Debug/Session1.exe
+/Users/Jason/Coding/Session1/Session1/obj/x86/Debug/Session1.pdb
+/Users/Jason/Coding/Session1/Session1/obj/x86/Debug/Session1.csprojResolveAssemblyReference.cache
