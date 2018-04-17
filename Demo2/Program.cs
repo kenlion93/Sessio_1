@@ -9,6 +9,8 @@ namespace Demo2
             Console.WriteLine("Hello demo 2 project");
             Console.ReadLine();
             Console.WriteLine("Hello 3");
+            Console.WriteLine("Hello 3");
+            Console.WriteLine("Hello 3");
         }
     }
 }
